@@ -1,0 +1,6 @@
+*.pyc
+*.kls
+tmp
+*.log
+*.txt
+.*
